@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 div{
     display: block;
 }
@@ -30,3 +31,27 @@ div{
     height: 15vw;
     object-fit: cover;
 }
+=======
+
+header img{
+    height: 100px;
+}
+
+#logo{
+    float: left;
+    margin-top: -35px;
+}
+
+nav a{
+    font-size: 35px;
+    text-decoration: none;
+    letter-spacing: -1px;
+    color: rgb(106, 190, 10);
+    margin-left: 20px;
+}
+
+nav{
+    text-align: left;
+    margin-top: 50px;
+}
+>>>>>>> 32a63326df3110f4a138866e98441200a75019ae
